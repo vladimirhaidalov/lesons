@@ -7,5 +7,6 @@ print('Среднее значений: ' , mean_value)
 print('Сумма значений: ', sum_value)
 print('Максимальное значение: ', max_value)
 
+#exerything will be fine
 
 
