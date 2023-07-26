@@ -3,7 +3,7 @@ def calculate_bmi(weight,height):
     return bmi
 
 underweight='Недостаточный вес'
-normal_weight='нормальный вес'
+normal_weight='Нормальный вес'
 overweight='Избыточный вес'
 obesity='Ожирение'
 
