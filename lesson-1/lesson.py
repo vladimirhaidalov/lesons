@@ -1,17 +1,10 @@
-def multiplication_or_sum(num1, num2):
-    # calculate product of two number
-    product = num1 * num2
-    # check if product is less then 1000
-    if product <= 1000:
-        return product
-    else:
-        # product is greater than 1000 calculate sum
-        return num1 + num2
+def sum_two_numbers(a, b):
+    return a+b
 
-# first condition
-result = multiplication_or_sum(20, 30)
-print("The result is", result)
+num1=3
+num2=5
+result= sum_two_numbers(num1,num2)
+print(f'The sumof {num1} and {num2} is {result}.')
 
-# Second condition
-result = multiplication_or_sum(40, 30)
-print("The result is", result)
+
+
